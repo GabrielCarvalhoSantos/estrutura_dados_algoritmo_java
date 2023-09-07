@@ -1,0 +1,10 @@
+
+R
+java:S1854
+"5Remove this useless assignment to local variable "i".(Ì‚ˆÌ8˜ÿæÙ›1
+V
+java:S1854"9Remove this useless assignment to local variable "vetor".(¡¬©Å8œåÙ›1
+G
+java:S1481"*Remove this unused "vetor" local variable.(¡¬©Å8¤åÙ›1
+H
+java:S1481	"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8ËÇæÙ›1

@@ -1,0 +1,8 @@
+
+n
+java:S1192$"QDefine a constant instead of duplicating this literal "Posicao invalida" 3 times.(ØíìÇ8©Îú‡œ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Œ÷Öøÿÿÿÿ8€Ïú‡œ1
+{
+java:S3012G"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¥ÚŠÇùÿÿÿÿ8—Ïú‡œ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8§Ïú‡œ1
